@@ -1,0 +1,29 @@
+@use 'src/constants';
+
+body {
+  background-color: #f3f3f3;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+hr {
+  width: 100%;
+}
+
+.content {
+  min-height: calc(100vh - constants.$headerHeight);
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: 0 10px;
+
+  p {
+    max-width: 40rem;
+  }
+}
