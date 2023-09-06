@@ -1,4 +1,4 @@
-## http://ygo-reborn.xyz
+## https://commandercapers.netlify.app
 
-# Yugioh Reborn Client
-Client for [TaylorAbraham/Yugioh-Reborn-Server](https://github.com/TaylorAbraham/Yugioh-Reborn-Server)
+# Commander Capers Client
+Client for [TaylorAbraham/Commander-Capers-Server](https://github.com/TaylorAbraham/Commander-Capers-Server)
